@@ -40,3 +40,11 @@
 .panel {
   padding: 0!important;
 }
+
+.component-box {
+  padding: 15px!important;
+}
+
+.components {
+  margin: 0px 0px 0px 15px!important;
+}

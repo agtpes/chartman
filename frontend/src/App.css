@@ -48,3 +48,11 @@
 .components {
   margin: 0px 0px 0px 15px!important;
 }
+
+.components-code {
+  padding: 15px;
+}
+
+.components-update {
+  margin-left: 15px;
+}
